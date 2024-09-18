@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="avatar_hat_34">
+        <path d="M0,68.252L0,76.436L300,76.436L300,68.252C300,64.32 296.807,61.127 292.875,61.127L7.125,61.127C3.193,61.127 0,64.32 0,68.252Z" style="fill:#da0f15;"/>
+        <rect x="0" y="96.509" width="300" height="15.309" style="fill:#0060ad;"/>
+        <path d="M300,111.818L300,107.694L259.108,107.694L256.301,105.716L253.951,107.694L250.726,104.164L245.785,107.694L41.994,107.694L40.204,109.86L38.496,107.694L35.449,109.191L31.539,107.694L0,107.694L0,111.818L300,111.818Z" style="fill:#004c8a;"/>
+        <g transform="matrix(0.983438,0,0,2.22581,4.96848,-103.541)">
+            <rect x="-5.052" y="80.859" width="305.052" height="9.018" style="fill:#eee6e4;"/>
+        </g>
+    </g>
+</svg>

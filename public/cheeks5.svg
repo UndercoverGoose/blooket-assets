@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="avatar_cheeks_5">
+        <g transform="matrix(0.88132,-0.0701277,0.0537998,0.676121,17.0482,94.2442)">
+            <path d="M292.534,252.682C292.534,249.364 290.467,246.67 287.922,246.67L238.608,246.67C236.063,246.67 233.996,249.364 233.996,252.682L233.996,264.707C233.996,268.025 236.063,270.719 238.608,270.719L287.922,270.719C290.467,270.719 292.534,268.025 292.534,264.707L292.534,252.682Z"/>
+        </g>
+        <g transform="matrix(-0.88132,-0.0701277,-0.0537998,0.676121,282.952,94.2442)">
+            <path d="M292.534,252.682C292.534,249.364 290.467,246.67 287.922,246.67L238.608,246.67C236.063,246.67 233.996,249.364 233.996,252.682L233.996,264.707C233.996,268.025 236.063,270.719 238.608,270.719L287.922,270.719C290.467,270.719 292.534,268.025 292.534,264.707L292.534,252.682Z"/>
+        </g>
+    </g>
+</svg>

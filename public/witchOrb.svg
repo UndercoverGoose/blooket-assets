@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg883"
+   version="1.1"
+   height="50"
+   width="50">
+  <defs
+     id="defs855">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="imagebot_6">
+      <feGaussianBlur
+         id="imagebot_44"
+         stdDeviation="3.42208" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0,-1150)"
+     id="imagebot_2">
+    <title
+       id="title857">imagebot_2</title>
+    <metadata
+       id="metadata859">image/svg+xmlOpenclipartCartoon bomb2013-09-22T06:13:15Red cartoon bombhttps://openclipart.org/detail/183653/cartoon-bomb-by-purzen-183653purzenbombcartooncherryexplosivefusegamepurpleredshinyweapon<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+    <g
+       id="imagebot_89"
+       transform="matrix(5.30473,0,0,5.30473,-513.645,-682.95)">
+      <g
+         transform="matrix(0.06407652,0,0,0.06407652,86.848771,332.81876)"
+         id="g894">
+        <path
+           d="m 446.188,268.552 c -36.886,-7.603 -76.174,8.265 -96.549,42.437 -25.735,43.159 -11.5,98.882 31.659,124.62 43.159,25.734 98.882,11.725 124.62,-31.435 20.391,-34.199 15.745,-76.244 -8.533,-105.08 -12.54441,-15.64799 -33.2026,-28.05815 -51.197,-30.542 z"
+           id="imagebot_84"
+           style="fill:#4ab96d;fill-opacity:1;fill-rule:evenodd;stroke:#4a8b6d;stroke-width:9.12437916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.769983,0,0,0.769983,-100.113,-3.38223)" />
+        <path
+           d="M 289.517,307.828 A 70.0584,70.0584 30.806 1 1 169.173,236.071 70.0584,70.0584 30.806 1 1 289.517,307.828 Z"
+           id="imagebot_83"
+           style="fill:#4ab96d;fill-opacity:1;fill-rule:evenodd;stroke:#4a8b6d;stroke-width:1.01030004;stroke-opacity:1" />
+        <path
+           transform="matrix(0.769983,0,0,0.769983,-100.113,-3.38223)"
+           d="m 378.023,287.143 c -9.559,6.752 -17.945,15.592 -24.326,26.291 -24.398,40.924 -11.02,93.827 29.903,118.23 23.975,14.295 52.08,15.447 76.154,5.862 -14.147,-1.704 -28.206,-6.199 -41.234,-13.967 -47.33,-28.221 -64.302,-87.79 -40.497,-136.42 z"
+           id="imagebot_81"
+           style="fill:#4a8b6d;fill-opacity:1;fill-rule:evenodd" />
+        <path
+           style="fill:#ffffff;fill-opacity:0.92021;fill-rule:evenodd"
+           d="m 1912.2,-248.89999 a 4.10375,5.3664654 0 1 1 -8.2075,0 4.10375,5.3664654 0 1 1 8.2075,0 z"
+           id="imagebot_80"
+           transform="matrix(2.67569,-2.21224,2.21224,2.67569,-4286.51,5144.03)" />
+        <path
+           style="fill:#ffffff;fill-opacity:0.92021;fill-rule:evenodd"
+           transform="matrix(1.57608,-1.30304,1.30304,1.57608,-2414.91,3165.1)"
+           d="m 1912.2,-248.89999 a 4.10375,5.3664654 0 1 1 -8.2075,0 4.10375,5.3664654 0 1 1 8.2075,0 z"
+           id="imagebot_79" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata881">image/svg+xmlOpenclipartBomb2013-09-08T00:06:33A bomb with a lit fusehttps://openclipart.org/detail/183207/bomb-by-sketchartist-183207SketchArtistbomb explosive weapon</metadata>
+</svg>

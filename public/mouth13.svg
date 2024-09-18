@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,300,520.444)">
+        <g id="avatar_mouth_27">
+            <path d="M150,260.73C158.382,260.278 163.705,258.252 167.407,259.414C172.489,261.009 175.239,262.081 180.439,265.594C175.176,263.376 171.769,261.788 166.53,260.83C163.059,260.194 156.665,262.734 150,262.939C143.335,262.734 136.941,260.194 133.47,260.83C128.231,261.788 124.824,263.376 119.561,265.594C124.761,262.081 127.511,261.009 132.593,259.414C136.295,258.252 141.618,260.278 150,260.73Z" style="fill:#3f1c12;"/>
+        </g>
+    </g>
+</svg>

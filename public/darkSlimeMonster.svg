@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   viewBox="0 0 300 345"
+   data-name="Layer 1"
+   id="Layer_1">
+  <metadata
+     id="metadata927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>blook_slime-monster</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs879">
+    <linearGradient
+       spreadMethod="pad"
+       id="linearGradient1752"
+       x1="150"
+       y1="414.31"
+       x2="150"
+       y2="226.94"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#505050;stop-opacity:1"
+         offset="0.35"
+         stop-color="#1f8e58"
+         id="stop1748" />
+      <stop
+         style="stop-color:#15141a;stop-opacity:1"
+         offset="1"
+         stop-color="#104931"
+         id="stop1750" />
+    </linearGradient>
+    <linearGradient
+       spreadMethod="pad"
+       id="linearGradient1736"
+       x1="150"
+       y1="414.31"
+       x2="150"
+       y2="226.94"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.35"
+         stop-color="#1f8e58"
+         id="stop1732" />
+      <stop
+         style="stop-color:#c61621;stop-opacity:0.69803923"
+         offset="1"
+         stop-color="#104931"
+         id="stop1734" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1730"
+       x1="150"
+       y1="414.31"
+       x2="150"
+       y2="226.94"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#c61621;stop-opacity:0.69803923"
+         offset="0.35"
+         stop-color="#1f8e58"
+         id="stop1726" />
+      <stop
+         offset="1"
+         stop-color="#104931"
+         id="stop1728" />
+    </linearGradient>
+    <style
+       id="style872">.cls-1,.cls-5{fill:#2fa04a;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#a7d054;}.cls-4{fill:#1a673d;fill-opacity:0.7;}.cls-5{fill-opacity:0.5;}.cls-6,.cls-9{fill:#15141a;}.cls-6{stroke:#15141a;stroke-miterlimit:10;stroke-width:7px;}.cls-7{fill:#e4f5fd;}.cls-8{fill:#237d3e;}.cls-10{fill:#fff;}.cls-11{fill:#e6edad;}</style>
+    <linearGradient
+       xlink:href="#linearGradient1736"
+       gradientUnits="userSpaceOnUse"
+       y2="226.94"
+       x2="150"
+       y1="414.31"
+       x1="150"
+       id="linear-gradient">
+      <stop
+         id="stop874"
+         stop-color="#1f8e58"
+         offset="0.35" />
+      <stop
+         id="stop876"
+         stop-color="#104931"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="226.94"
+       x2="150"
+       y1="414.31"
+       x1="150"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1738"
+       xlink:href="#linearGradient1752" />
+  </defs>
+  <title
+     id="title881">blook_slime-monster</title>
+  <g
+     data-name="medieval fantasy"
+     id="medieval_fantasy">
+    <rect
+       style="fill:#3a3a3a;fill-opacity:1"
+       id="rect883"
+       rx="36.38"
+       height="253.39"
+       width="300"
+       y="45"
+       class="cls-1" />
+    <rect
+       style="fill-opacity:1;fill:url(#linearGradient1738)"
+       id="rect885"
+       rx="36.38"
+       height="115.67"
+       width="300"
+       y="229.33"
+       class="cls-2" />
+    <path
+       style="fill:#787878;fill-opacity:0.69803923"
+       id="path887"
+       d="M274.11,46.54c.86,7.5-1.41,16-10,24.61C247.56,87.66,239.63,92.49,236,93.79a24.87,24.87,0,0,1,15.06,15.83c1-3.31,5.35-11.16,22.83-28.64,8.61-8.61,17.07-10.88,24.57-10A36.48,36.48,0,0,0,274.11,46.54Z"
+       class="cls-3" />
+    <path
+       style="fill:#787878;fill-opacity:0.69803923"
+       id="path889"
+       d="M25.89,46.54c-.86,7.5,1.41,16,10,24.61C52.44,87.66,60.37,92.49,64,93.79a24.87,24.87,0,0,0-15.06,15.83C48,106.31,43.57,98.46,26.09,81,17.48,72.37,9,70.1,1.52,70.94A36.48,36.48,0,0,1,25.89,46.54Z"
+       class="cls-3" />
+    <rect
+       style="fill:#505050;fill-opacity:0.69803923"
+       id="rect891"
+       rx="24.79"
+       height="137.08"
+       width="204.41"
+       y="92.25"
+       x="47.79"
+       class="cls-4" />
+    <rect
+       style="fill:#3c3c3c;fill-opacity:0.69803923"
+       x="0"
+       id="rect893"
+       rx="36.380001"
+       height="253.39"
+       width="300"
+       y="45"
+       class="cls-5" />
+    <path
+       style="fill:#761621;fill-opacity:1;stroke:#761621;stroke-opacity:1"
+       id="path895"
+       d="M186.6,277.49H113.4c0-36.68,18.33-45.87,36.6-45.87S186.6,240.81,186.6,277.49Z"
+       class="cls-6" />
+    <polygon
+       id="polygon897"
+       points="122.54 261.94 113.4 277.49 131.69 277.49 122.54 261.94"
+       class="cls-7" />
+    <polygon
+       id="polygon899"
+       points="140.84 261.94 131.69 277.49 149.98 277.49 140.84 261.94"
+       class="cls-7" />
+    <polygon
+       id="polygon901"
+       points="159.13 261.94 149.98 277.49 168.27 277.49 159.13 261.94"
+       class="cls-7" />
+    <polygon
+       id="polygon903"
+       points="177.42 261.94 168.27 277.49 186.57 277.49 177.42 261.94"
+       class="cls-7" />
+    <path
+       style="fill:#761621;fill-opacity:1"
+       id="path905"
+       d="M97.39,209.92A36.45,36.45,0,1,1,30.73,180.4C38.88,162,105.55,191.51,97.39,209.92Z"
+       class="cls-8" />
+    <path
+       id="path907"
+       d="M93.3,219.17a36.46,36.46,0,0,1-66.67-29.52C34.78,171.24,101.45,200.76,93.3,219.17Z"
+       class="cls-9" />
+    <circle
+       id="circle909"
+       r="7.63"
+       cy="210.16"
+       cx="76.05"
+       class="cls-10" />
+    <path
+       style="fill:#761621;fill-opacity:1"
+       id="path911"
+       d="M202.61,209.92a36.45,36.45,0,0,0,66.66-29.52C261.12,162,194.45,191.51,202.61,209.92Z"
+       class="cls-8" />
+    <path
+       id="path913"
+       d="M206.7,219.17a36.46,36.46,0,0,0,66.67-29.52C265.22,171.24,198.55,200.76,206.7,219.17Z"
+       class="cls-9" />
+    <circle
+       id="circle915"
+       r="7.63"
+       cy="210.16"
+       cx="261.08"
+       class="cls-10" />
+    <ellipse
+       style="fill:#c8c8c8;fill-opacity:0.62352943"
+       id="ellipse917"
+       transform="translate(-29.25 21.85) rotate(-20.36)"
+       ry="18.31"
+       rx="27.27"
+       cy="92.39"
+       cx="46.22"
+       class="cls-11" />
+    <circle
+       style="fill:#c8c8c8;fill-opacity:0.62352943"
+       id="circle919"
+       r="12.38"
+       cy="73.66"
+       cx="94.68"
+       class="cls-11" />
+    <circle
+       style="fill:#c8c8c8;fill-opacity:0.63586956"
+       id="circle921"
+       r="7"
+       cy="260.65"
+       cx="279.03"
+       class="cls-11" />
+  </g>
+</svg>

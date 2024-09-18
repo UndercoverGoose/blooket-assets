@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="avatar_eyebrows_6">
+        <g transform="matrix(1,0,0,1,19.469,-12.7669)">
+            <path d="M186.176,135.267C199.43,131.852 210.188,134.62 211.777,139.868C213.096,144.222 207.396,149.466 204.195,155.939C201.252,161.892 195.639,166.73 187.527,166.73C179.305,166.73 172.629,160.055 172.629,151.833C172.629,143.611 178.214,137.319 186.176,135.267Z" style="fill:#3f1c12;"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,280.531,-12.7669)">
+            <path d="M186.176,135.267C199.43,131.852 210.188,134.62 211.777,139.868C213.096,144.222 207.396,149.466 204.195,155.939C201.252,161.892 195.639,166.73 187.527,166.73C179.305,166.73 172.629,160.055 172.629,151.833C172.629,143.611 178.214,137.319 186.176,135.267Z" style="fill:#3f1c12;"/>
+        </g>
+    </g>
+</svg>

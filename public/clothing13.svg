@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="avatar_clothing_13">
+        <path d="M300,308.62C300,328.577 283.577,345 263.62,345L36.38,345C16.423,345 -0,328.577 -0,308.62L89.97,298.38L113.284,298.38C113.757,311.848 130.028,322.684 150,322.684C169.972,322.684 186.243,311.848 186.716,298.38L210.496,298.38L300,308.62Z" style="fill:#ffe6e6;fill-rule:nonzero;"/>
+        <path d="M-0,262.01C-0,281.962 16.418,298.38 36.37,298.38L96.364,298.38C65.091,303.743 43.893,317.015 36.467,344.674L36.38,345C16.423,345 -0,328.577 -0,308.62L0,262L-0,262.01ZM203.636,298.38L263.62,298.38C283.577,298.38 300,281.957 300,262L300,308.62C300,328.577 283.577,345 263.62,345C256.273,317.119 235.032,303.764 203.636,298.38Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+        <path d="M189.716,298.458C189.512,304.506 186.602,310.126 181.674,314.684C174.522,321.299 163.01,325.684 150,325.684C136.99,325.684 125.478,321.299 118.326,314.684C113.398,310.126 110.488,304.506 110.284,298.458L116.289,298.458C116.503,302.882 118.784,306.935 122.4,310.279C128.619,316.032 138.686,319.684 150,319.684C161.314,319.684 171.381,316.032 177.6,310.279C181.216,306.935 183.497,302.882 183.711,298.458L189.716,298.458Z" style="fill:#e51728;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.28838e-15,-70.0345,19.3762,1.18645e-15,150,351.818)"><stop offset="0" style="stop-color:#e51728;stop-opacity:1"/><stop offset="1" style="stop-color:#a70000;stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

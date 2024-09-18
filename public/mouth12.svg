@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="avatar_mouth_26" transform="matrix(1.98616,-2.43235e-16,2.43235e-16,1.98616,-147.925,-215.67)">
+        <path d="M149.91,241.591C146.094,241.62 142.315,240.713 138.579,238.836C137.845,238.57 137.028,238.122 136.098,237.443C136.923,237.955 137.75,238.42 138.579,238.836C143.101,240.478 144.494,235.261 150,235.213L150.032,235.213C155.512,235.282 156.908,240.474 161.421,238.836C162.25,238.42 163.077,237.955 163.902,237.443C162.972,238.122 162.155,238.57 161.421,238.836C157.656,240.728 153.846,241.634 150,241.59L149.91,241.591Z" style="fill:#d02d4e;"/>
+        <path d="M136.098,237.443C145.441,241.381 154.709,241.373 163.901,237.443C155.028,243.886 145.765,243.974 136.098,237.443Z" style="fill:#b61f3d;"/>
+    </g>
+</svg>
