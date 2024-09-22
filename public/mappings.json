@@ -1820,12 +1820,12 @@
     "type": "svg",
     "path_png": "GamesPlayed.png"
   },
-  "Gold": {
+  "Gold$1": {
     "url": "https://ac.blooket.com/dashboard/assets/Gold-CrltWEr0.svg",
-    "path": "Gold.svg",
+    "path": "Gold$1.svg",
     "hash": "4d8a101b4ad2b5b2829fdf98f4172fc2fe9fcf2ac84d267faec4478ccd0f6ce5",
     "type": "svg",
-    "path_png": "Gold.png"
+    "path_png": "Gold$1.png"
   },
   "LevelStar": {
     "url": "https://ac.blooket.com/dashboard/assets/LevelStar-tmvShqvY.svg",
@@ -6265,12 +6265,12 @@
     "type": "svg",
     "path_png": "snowplow.png"
   },
-  "tree": {
+  "tree$1": {
     "url": "https://ac.blooket.com/play-l/assets/tree-TZ8fBMd8.svg",
-    "path": "tree.svg",
+    "path": "tree$1.svg",
     "hash": "46c6e74eeb4abc80ae56780aeb253f42349bdbf7e4acccc4377ecbd276b98c5f",
     "type": "svg",
-    "path_png": "tree.png"
+    "path_png": "tree$1.png"
   },
   "wheel": {
     "url": "https://ac.blooket.com/play-l/assets/wheel-CndZC6fX.svg",
@@ -8197,12 +8197,12 @@
     "type": "svg",
     "path_png": "enchantedElf.png"
   },
-  "arcticFox": {
+  "arcticFox$1": {
     "url": "https://media.blooket.com/image/upload/v1566679726/Blooks/arcticFox.svg",
-    "path": "arcticFox.svg",
+    "path": "arcticFox$1.svg",
     "hash": "f0af85d044c5a65db64ad25692941a2bfcf1189008dcf21c7a61abcd0a86f041",
     "type": "svg",
-    "path_png": "arcticFox.png"
+    "path_png": "arcticFox$1.png"
   },
   "fireDragon": {
     "url": "https://media.blooket.com/image/upload/v1591214955/Blooks/fireDragon.svg",

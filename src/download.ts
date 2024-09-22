@@ -18,6 +18,7 @@ function resolve_path(url: string): [string, AssetFileType] {
  */
 export default async function (urls: string[]): Promise<AssetMap> {
   const asset_map: AssetMap = {};
+  const asset_names_lowercase: Set<string> = new Set();
   const asset_hashes: Set<string> = new Set();
   for (let url_index = 0; url_index < urls.length; url_index++) {
     const url = urls[url_index];
@@ -26,7 +27,7 @@ export default async function (urls: string[]): Promise<AssetMap> {
     let [asset_name, asset_extension] = resolve_path(url);
 
     let i = 1;
-    while (asset_map[asset_name]) {
+    while (asset_names_lowercase.has(asset_name.toLowerCase())) {
       asset_name = asset_name.replace(/\$\d+$/, '') + `$${i++}`;
     }
 
@@ -60,6 +61,7 @@ export default async function (urls: string[]): Promise<AssetMap> {
     }
 
     await Bun.write(`./public/${asset_name}.${asset_extension}`, blob);
+    asset_names_lowercase.add(asset_name.toLowerCase());
     asset_hashes.add(hash_sha256);
 
     if (asset_map[asset_name]) {
