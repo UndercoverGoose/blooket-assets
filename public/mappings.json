@@ -3570,6 +3570,13 @@
     "type": "svg",
     "path_png": "candycorn.png"
   },
+  "crow": {
+    "url": "https://ac.blooket.com/marketassets/blooks/crow.svg",
+    "path": "crow.svg",
+    "hash": "084f72d6f91aa751b2282e33ea549e8d788d021507ebbae3a4e4638b378ceb0a",
+    "type": "svg",
+    "path_png": "crow.png"
+  },
   "werewolf": {
     "url": "https://ac.blooket.com/marketassets/blooks/werewolf.svg",
     "path": "werewolf.svg",
@@ -4410,6 +4417,167 @@
     "type": "svg",
     "path_png": "clothing87.png"
   },
+  "clothing88": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing88.svg",
+    "path": "clothing88.svg",
+    "hash": "9e44ce9af62b0c56046ac33af723368ee129ecc401ab22d870051ec3d4ac33c8",
+    "type": "svg",
+    "path_png": "clothing88.png"
+  },
+  "clothing89": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing89.svg",
+    "path": "clothing89.svg",
+    "hash": "ab12103068085a3ed5422fe05aef0ea76da4a0abd6a3f7b02bd8016b8df85b53",
+    "type": "svg",
+    "path_png": "clothing89.png"
+  },
+  "clothing90": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing90.svg",
+    "path": "clothing90.svg",
+    "hash": "ddfc587a8a5479fc6eaa11d08715ed6ca4f1fbf23fd4f06c1d7e5bd6d45ecf3f",
+    "type": "svg",
+    "path_png": "clothing90.png"
+  },
+  "clothing91": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing91.svg",
+    "path": "clothing91.svg",
+    "hash": "04e225387dc22bd9a21648cd30f600751554e909de2a62b04465ca9b57dba312",
+    "type": "svg",
+    "path_png": "clothing91.png"
+  },
+  "clothing92": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing92.svg",
+    "path": "clothing92.svg",
+    "hash": "25ad799f888f701f1bf8722319e3985dce691abaeb7184518dbfd558f85caf8c",
+    "type": "svg",
+    "path_png": "clothing92.png"
+  },
+  "clothing93": {
+    "url": "https://media.blooket.com/image/upload/v1726105760/BlookParts/clothing93.svg",
+    "path": "clothing93.svg",
+    "hash": "8ad0fab9dea6ae30e2c086582f377b1dce50bc27f61c0eb68592e0b4f9c64b40",
+    "type": "svg",
+    "path_png": "clothing93.png"
+  },
+  "clothing94": {
+    "url": "https://media.blooket.com/image/upload/v1726105762/BlookParts/clothing94.svg",
+    "path": "clothing94.svg",
+    "hash": "883578266e42d51ce2881f9eef69b47b63bd8395f3cb75361bef36549cdae5a7",
+    "type": "svg",
+    "path_png": "clothing94.png"
+  },
+  "clothing95": {
+    "url": "https://media.blooket.com/image/upload/v1726105763/BlookParts/clothing95.svg",
+    "path": "clothing95.svg",
+    "hash": "2f5cf3ab8d1fdeb677cbca22806eba51d9038dddc537b06d1375477be0086652",
+    "type": "svg",
+    "path_png": "clothing95.png"
+  },
+  "clothing96": {
+    "url": "https://media.blooket.com/image/upload/v1726105764/BlookParts/clothing96.svg",
+    "path": "clothing96.svg",
+    "hash": "7f04f9b87bf291ce9d312e853043f6ea191e6ee3a218ee31827b5f9903ac9537",
+    "type": "svg",
+    "path_png": "clothing96.png"
+  },
+  "clothing97": {
+    "url": "https://media.blooket.com/image/upload/v1726105765/BlookParts/clothing97.svg",
+    "path": "clothing97.svg",
+    "hash": "1d6f17d95fe28661e10025f74daa8defa44851fe7d886e18747c9e40e632475a",
+    "type": "svg",
+    "path_png": "clothing97.png"
+  },
+  "clothing98": {
+    "url": "https://media.blooket.com/image/upload/v1726105765/BlookParts/clothing98.svg",
+    "path": "clothing98.svg",
+    "hash": "62df47033d14a97dc3ea758e955e743783056150f8f87eae66d132e5e71be6f3",
+    "type": "svg",
+    "path_png": "clothing98.png"
+  },
+  "clothing99": {
+    "url": "https://media.blooket.com/image/upload/v1726105765/BlookParts/clothing99.svg",
+    "path": "clothing99.svg",
+    "hash": "cbb2558f69ebe3c7593fae1376ec2bc8e3d867ed8953b24fbb427d07477c72a1",
+    "type": "svg",
+    "path_png": "clothing99.png"
+  },
+  "clothing100": {
+    "url": "https://media.blooket.com/image/upload/v1726105767/BlookParts/clothing100.svg",
+    "path": "clothing100.svg",
+    "hash": "47db51de7ec2925094e62189a98b518a0f2ae444637c86d8ea14c5d529d0ee5a",
+    "type": "svg",
+    "path_png": "clothing100.png"
+  },
+  "clothing101": {
+    "url": "https://media.blooket.com/image/upload/v1726105767/BlookParts/clothing101.svg",
+    "path": "clothing101.svg",
+    "hash": "fd4e6c3f1a4bfb447fb597d291430ff531410792309ce2895d3fc26ac3fcbc73",
+    "type": "svg",
+    "path_png": "clothing101.png"
+  },
+  "clothing102": {
+    "url": "https://media.blooket.com/image/upload/v1726105768/BlookParts/clothing102.svg",
+    "path": "clothing102.svg",
+    "hash": "144a379546b7634895955153cd579572fdc1b39f6c3e35825521b5675a60426c",
+    "type": "svg",
+    "path_png": "clothing102.png"
+  },
+  "clothing103": {
+    "url": "https://media.blooket.com/image/upload/v1726105768/BlookParts/clothing103.svg",
+    "path": "clothing103.svg",
+    "hash": "9c40ed8cd2444085c95703a732343577f2921703c6395f73249af6d73519c978",
+    "type": "svg",
+    "path_png": "clothing103.png"
+  },
+  "clothing104": {
+    "url": "https://media.blooket.com/image/upload/v1726105769/BlookParts/clothing104.svg",
+    "path": "clothing104.svg",
+    "hash": "c93891f2f7f3768c6ffe1f0e4afb9cc1123dbdbd1f778277f212ff71f98973b6",
+    "type": "svg",
+    "path_png": "clothing104.png"
+  },
+  "clothing105": {
+    "url": "https://media.blooket.com/image/upload/v1726105769/BlookParts/clothing105.svg",
+    "path": "clothing105.svg",
+    "hash": "e9009d7bdcc01b21e4d76fd4b7f045582b3f4395fc70e014ccc367d3e1ae1e75",
+    "type": "svg",
+    "path_png": "clothing105.png"
+  },
+  "clothing106": {
+    "url": "https://media.blooket.com/image/upload/v1726105770/BlookParts/clothing106.svg",
+    "path": "clothing106.svg",
+    "hash": "2ca84346fecc84bb9633d5bfa3f1ecf465b12f30a4255ad6f87d93413e40186a",
+    "type": "svg",
+    "path_png": "clothing106.png"
+  },
+  "clothing107": {
+    "url": "https://media.blooket.com/image/upload/v1726105771/BlookParts/clothing107.svg",
+    "path": "clothing107.svg",
+    "hash": "00b581f13d6bcd42bb5ca9a23c9ec86b403a295f979e8427adcf5a965cf977ec",
+    "type": "svg",
+    "path_png": "clothing107.png"
+  },
+  "clothing108": {
+    "url": "https://media.blooket.com/image/upload/v1726105773/BlookParts/clothing108.svg",
+    "path": "clothing108.svg",
+    "hash": "a8726cb3b3bdcffe97791240a63bd46e62cafe6616230a173c47633ab64b969c",
+    "type": "svg",
+    "path_png": "clothing108.png"
+  },
+  "clothing109": {
+    "url": "https://media.blooket.com/image/upload/v1726105773/BlookParts/clothing109.svg",
+    "path": "clothing109.svg",
+    "hash": "644c3a67ec1d27258d5f4c9e901bd8f253c8aa9b1eeef63a947aa54fb36c6044",
+    "type": "svg",
+    "path_png": "clothing109.png"
+  },
+  "clothing110": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/clothing110.svg",
+    "path": "clothing110.svg",
+    "hash": "b235838951d89941c4d8db510bca5c75c7bf924b0ce2ac5260391c2c5ce07108",
+    "type": "svg",
+    "path_png": "clothing110.png"
+  },
   "eyes0": {
     "url": "https://media.blooket.com/image/upload/v1634087707/BlookParts/eyes0.svg",
     "path": "eyes0.svg",
@@ -4521,6 +4689,34 @@
     "hash": "60a79a983a328f55cd1dd3f726416a2a95c3e8b6ef3a84037cf288ccac08cd7a",
     "type": "svg",
     "path_png": "eyes15.png"
+  },
+  "eyes16": {
+    "url": "https://media.blooket.com/image/upload/v1726105774/BlookParts/eyes16.svg",
+    "path": "eyes16.svg",
+    "hash": "dbfe84bac9aa188935c84fde8d43afa50f7ac3c4c203b018f85baa0a367b9a2b",
+    "type": "svg",
+    "path_png": "eyes16.png"
+  },
+  "eyes17": {
+    "url": "https://media.blooket.com/image/upload/v1726105775/BlookParts/eyes17.svg",
+    "path": "eyes17.svg",
+    "hash": "50c5de122f371966d350468f64da8a847b8e387f0dbb526e800cf572be8df782",
+    "type": "svg",
+    "path_png": "eyes17.png"
+  },
+  "eyes18": {
+    "url": "https://media.blooket.com/image/upload/v1726105775/BlookParts/eyes18.svg",
+    "path": "eyes18.svg",
+    "hash": "72cbd92556b9c400f5ba747b87346bed504d4953fa0f48623ebcb2d9098b2387",
+    "type": "svg",
+    "path_png": "eyes18.png"
+  },
+  "eyes19": {
+    "url": "https://media.blooket.com/image/upload/v1726105775/BlookParts/eyes19.svg",
+    "path": "eyes19.svg",
+    "hash": "f790c3c2a45f685861654a1b63a06a3bc300494847c1bea6d391f7a14f176aba",
+    "type": "svg",
+    "path_png": "eyes19.png"
   },
   "glasses1": {
     "url": "https://media.blooket.com/image/upload/v1634087784/BlookParts/glasses1.svg",
@@ -4689,6 +4885,69 @@
     "hash": "d3f1b7e54071adb53f1076006959ec51dda84750de546453fdadc10c7a4fc8f8",
     "type": "svg",
     "path_png": "glasses24.png"
+  },
+  "glasses25": {
+    "url": "https://media.blooket.com/image/upload/v1726105775/BlookParts/glasses25.svg",
+    "path": "glasses25.svg",
+    "hash": "d4cf79e8f47dbb7f8c584244dc4741cf0e5f349c06d170d70ea49a6bfee9654d",
+    "type": "svg",
+    "path_png": "glasses25.png"
+  },
+  "glasses26": {
+    "url": "https://media.blooket.com/image/upload/v1726105776/BlookParts/glasses26.svg",
+    "path": "glasses26.svg",
+    "hash": "afe2689e654bf4cf11667a53bf063fe3bea7908392280c6a26a5a488cc96f80b",
+    "type": "svg",
+    "path_png": "glasses26.png"
+  },
+  "glasses27": {
+    "url": "https://media.blooket.com/image/upload/v1726105777/BlookParts/glasses27.svg",
+    "path": "glasses27.svg",
+    "hash": "49e34612735f23e91c500a290cc17b3b5771e47201633dc88079ef6ba187f31b",
+    "type": "svg",
+    "path_png": "glasses27.png"
+  },
+  "glasses28": {
+    "url": "https://media.blooket.com/image/upload/v1726105777/BlookParts/glasses28.svg",
+    "path": "glasses28.svg",
+    "hash": "4da19a742d9220a39fbb23faafae2721b20bacd2fcbe8fbf533387fd6e0d7b21",
+    "type": "svg",
+    "path_png": "glasses28.png"
+  },
+  "glasses29": {
+    "url": "https://media.blooket.com/image/upload/v1726105777/BlookParts/glasses29.svg",
+    "path": "glasses29.svg",
+    "hash": "f9ddea911969bafb3630a1a2df4a061f899620dea228db22198d5cfc4bde573a",
+    "type": "svg",
+    "path_png": "glasses29.png"
+  },
+  "glasses30": {
+    "url": "https://media.blooket.com/image/upload/v1726105778/BlookParts/glasses30.svg",
+    "path": "glasses30.svg",
+    "hash": "2921d52beaef28e5f3941b9c6b9e1aea32d990e551c7c986b83341dd249c79bc",
+    "type": "svg",
+    "path_png": "glasses30.png"
+  },
+  "glasses31": {
+    "url": "https://media.blooket.com/image/upload/v1726105778/BlookParts/glasses31.svg",
+    "path": "glasses31.svg",
+    "hash": "3a424ec5e5a1778b8e665db0f612bf2bd7b4b4b96b842dbcb68beea21a2a9d55",
+    "type": "svg",
+    "path_png": "glasses31.png"
+  },
+  "glasses32": {
+    "url": "https://media.blooket.com/image/upload/v1726105778/BlookParts/glasses32.svg",
+    "path": "glasses32.svg",
+    "hash": "f6439ff0792f01db6d992484a431278a7ef943117b8270fa64bec41624da42e5",
+    "type": "svg",
+    "path_png": "glasses32.png"
+  },
+  "glasses33": {
+    "url": "https://media.blooket.com/image/upload/v1726105779/BlookParts/glasses33.svg",
+    "path": "glasses33.svg",
+    "hash": "128b7a3dd6629e208f345a337678664269a7871f8c07112f54ebd9c2e6a381f6",
+    "type": "svg",
+    "path_png": "glasses33.png"
   },
   "hair1": {
     "url": "https://media.blooket.com/image/upload/v1634087810/BlookParts/hair1.svg",
@@ -4878,6 +5137,55 @@
     "hash": "5b5f340903db92134fbe82a73e330ba5733704998bb799777d084fcc6d396867",
     "type": "svg",
     "path_png": "hair27.png"
+  },
+  "hair28": {
+    "url": "https://media.blooket.com/image/upload/v1726105780/BlookParts/hair28.svg",
+    "path": "hair28.svg",
+    "hash": "71b46336810a3983c55c1a0ac31bbca1e59ba7b6a37281f283d610ebbad1b13b",
+    "type": "svg",
+    "path_png": "hair28.png"
+  },
+  "hair29": {
+    "url": "https://media.blooket.com/image/upload/v1726105781/BlookParts/hair29.svg",
+    "path": "hair29.svg",
+    "hash": "d6936af4db9356f3da290240d81d7d28a46b93a0b3ecb7c135e879cb5be0d1b7",
+    "type": "svg",
+    "path_png": "hair29.png"
+  },
+  "hair30": {
+    "url": "https://media.blooket.com/image/upload/v1726105782/BlookParts/hair30.svg",
+    "path": "hair30.svg",
+    "hash": "71453d9f1d220271f072ab0ee0cd6ba1961095f3bbda18e9a68441b15ae47c98",
+    "type": "svg",
+    "path_png": "hair30.png"
+  },
+  "hair31": {
+    "url": "https://media.blooket.com/image/upload/v1726105782/BlookParts/hair31.svg",
+    "path": "hair31.svg",
+    "hash": "84d84e5a8e27bea5a98ba1d2faa452144769acd8acda7153e3e1e7fba86cc97f",
+    "type": "svg",
+    "path_png": "hair31.png"
+  },
+  "hair32": {
+    "url": "https://media.blooket.com/image/upload/v1726105782/BlookParts/hair32.svg",
+    "path": "hair32.svg",
+    "hash": "e285567a72da61a43aadecdc979bad7829bafdfa4b0dafa89ad8ea39dabb6ad6",
+    "type": "svg",
+    "path_png": "hair32.png"
+  },
+  "hair33": {
+    "url": "https://media.blooket.com/image/upload/v1726105782/BlookParts/hair33.svg",
+    "path": "hair33.svg",
+    "hash": "7d9b799f5d94ed1522f6c587e0c327da850d19bab758314d1d7f55b1fd514a2b",
+    "type": "svg",
+    "path_png": "hair33.png"
+  },
+  "hair34": {
+    "url": "https://media.blooket.com/image/upload/v1726105783/BlookParts/hair34.svg",
+    "path": "hair34.svg",
+    "hash": "d1e744e629a7b90b19a4d0e3bb4f1ae29d482ea0ec395f3cebe2e586311b2ef1",
+    "type": "svg",
+    "path_png": "hair34.png"
   },
   "hat1": {
     "url": "https://media.blooket.com/image/upload/v1634087855/BlookParts/hat1.svg",
@@ -5453,6 +5761,265 @@
     "type": "svg",
     "path_png": "hat82.png"
   },
+  "hat83": {
+    "url": "https://media.blooket.com/image/upload/v1726105784/BlookParts/hat83.svg",
+    "path": "hat83.svg",
+    "hash": "134d5a8fe009d7e95344a9f656300320a990b1520b50f351828de445b72abf88",
+    "type": "svg",
+    "path_png": "hat83.png"
+  },
+  "hat84": {
+    "url": "https://media.blooket.com/image/upload/v1726105784/BlookParts/hat84.svg",
+    "path": "hat84.svg",
+    "hash": "036fb031ab1cf72caca2937a075cefdf70475f578001bfc49b57464d4dfc4356",
+    "type": "svg",
+    "path_png": "hat84.png"
+  },
+  "hat85": {
+    "url": "https://media.blooket.com/image/upload/v1726105784/BlookParts/hat85.svg",
+    "path": "hat85.svg",
+    "hash": "99bb637686e7ebc1db32ea64710d07420da09d69edf9908736427a4ff2020f7e",
+    "type": "svg",
+    "path_png": "hat85.png"
+  },
+  "hat86": {
+    "url": "https://media.blooket.com/image/upload/v1726105784/BlookParts/hat86.svg",
+    "path": "hat86.svg",
+    "hash": "25338cb55296a983e9fbfe182d9c6a8ff3ec77de56a35d33d70d977f0def6716",
+    "type": "svg",
+    "path_png": "hat86.png"
+  },
+  "hat87": {
+    "url": "https://media.blooket.com/image/upload/v1726105784/BlookParts/hat87.svg",
+    "path": "hat87.svg",
+    "hash": "6b4919ea68b5092ca4cfcebf538a0490dc53f2e2d25e9e7596e27c86625502f0",
+    "type": "svg",
+    "path_png": "hat87.png"
+  },
+  "hat88": {
+    "url": "https://media.blooket.com/image/upload/v1726105785/BlookParts/hat88.svg",
+    "path": "hat88.svg",
+    "hash": "fa02f7bbac67d35d93bc991c0067e8817a465d4428d5eaa79cc40db24b2e425c",
+    "type": "svg",
+    "path_png": "hat88.png"
+  },
+  "hat89": {
+    "url": "https://media.blooket.com/image/upload/v1726105786/BlookParts/hat89.svg",
+    "path": "hat89.svg",
+    "hash": "15fce36df165b883cfa37d1d1c1c6dc94d1b3109349480a7bd8aae522f7f551a",
+    "type": "svg",
+    "path_png": "hat89.png"
+  },
+  "hat90": {
+    "url": "https://media.blooket.com/image/upload/v1726105787/BlookParts/hat90.svg",
+    "path": "hat90.svg",
+    "hash": "44dbdc55b13abb2d8d0f97d6fa88dee6729939a66e6e1fa9d38dab1a4e1bfb41",
+    "type": "svg",
+    "path_png": "hat90.png"
+  },
+  "hat91": {
+    "url": "https://media.blooket.com/image/upload/v1726105790/BlookParts/hat91.svg",
+    "path": "hat91.svg",
+    "hash": "de9a7eff27a62995c9939c8f1ae702b2c7f0c26f1e6c39399e48bec96b820e01",
+    "type": "svg",
+    "path_png": "hat91.png"
+  },
+  "hat92": {
+    "url": "https://media.blooket.com/image/upload/v1726105788/BlookParts/hat92.svg",
+    "path": "hat92.svg",
+    "hash": "7186e1451dbe7b9df0f8038948f40e656ea571cfa6c051d08012c0ede47e17dd",
+    "type": "svg",
+    "path_png": "hat92.png"
+  },
+  "hat93": {
+    "url": "https://media.blooket.com/image/upload/v1726105791/BlookParts/hat93.svg",
+    "path": "hat93.svg",
+    "hash": "10eb1c957ea628a1595aa1f1bf32bd490a9872189e418124208fa1f3deb04c86",
+    "type": "svg",
+    "path_png": "hat93.png"
+  },
+  "hat94": {
+    "url": "https://media.blooket.com/image/upload/v1726105790/BlookParts/hat94.svg",
+    "path": "hat94.svg",
+    "hash": "6b350dc6035251ecf021187b3c430ff9338e2e15cc47eb2c4e568911f800e7f2",
+    "type": "svg",
+    "path_png": "hat94.png"
+  },
+  "hat95": {
+    "url": "https://media.blooket.com/image/upload/v1726105789/BlookParts/hat95.svg",
+    "path": "hat95.svg",
+    "hash": "64aeffbf3629acc77e7d085965e8b0c289fffb6bc1c992bf9cb65836cdb6985b",
+    "type": "svg",
+    "path_png": "hat95.png"
+  },
+  "hat96": {
+    "url": "https://media.blooket.com/image/upload/v1726105793/BlookParts/hat96.svg",
+    "path": "hat96.svg",
+    "hash": "849d7154f998ce82542dc46aba77e984f4a27ff8b9da25394ae85e109ff2b65b",
+    "type": "svg",
+    "path_png": "hat96.png"
+  },
+  "hat97": {
+    "url": "https://media.blooket.com/image/upload/v1726105793/BlookParts/hat97.svg",
+    "path": "hat97.svg",
+    "hash": "44da5e62c7106f5479590f6ced333b39ae31dd1f99fc4bbeae2a890e50b926a5",
+    "type": "svg",
+    "path_png": "hat97.png"
+  },
+  "hat98": {
+    "url": "https://media.blooket.com/image/upload/v1726105793/BlookParts/hat98.svg",
+    "path": "hat98.svg",
+    "hash": "ea91109302de97657a95d5ea32f34df7c44e274cf84ceeac0f78b42807691e17",
+    "type": "svg",
+    "path_png": "hat98.png"
+  },
+  "hat99": {
+    "url": "https://media.blooket.com/image/upload/v1726105794/BlookParts/hat99.svg",
+    "path": "hat99.svg",
+    "hash": "428d4cf1c664a856a3b4854c1226e26be7e88e530a2db0bfaab33d19a93bc863",
+    "type": "svg",
+    "path_png": "hat99.png"
+  },
+  "hat100": {
+    "url": "https://media.blooket.com/image/upload/v1726105795/BlookParts/hat100.svg",
+    "path": "hat100.svg",
+    "hash": "1e75604d9148f06b59055debf3738cbef16f92602041737cb88fc0516cecf711",
+    "type": "svg",
+    "path_png": "hat100.png"
+  },
+  "hat101": {
+    "url": "https://media.blooket.com/image/upload/v1726105796/BlookParts/hat101.svg",
+    "path": "hat101.svg",
+    "hash": "75d206d3364222a0b13b3f1af82eb02c4500b17dc22ffd3440fc4f4b2c9aa5dd",
+    "type": "svg",
+    "path_png": "hat101.png"
+  },
+  "hat102": {
+    "url": "https://media.blooket.com/image/upload/v1726105797/BlookParts/hat102.svg",
+    "path": "hat102.svg",
+    "hash": "051e88b5bb621e4823e5387e781951b7977c3dd984f67b0c8d8035f3966876d8",
+    "type": "svg",
+    "path_png": "hat102.png"
+  },
+  "hat103": {
+    "url": "https://media.blooket.com/image/upload/v1726105797/BlookParts/hat103.svg",
+    "path": "hat103.svg",
+    "hash": "a4400b541fef730c1f52186a9b45fbf4f22d7f55606785f1d2c0fb3bfdae037f",
+    "type": "svg",
+    "path_png": "hat103.png"
+  },
+  "hat104": {
+    "url": "https://media.blooket.com/image/upload/v1726105798/BlookParts/hat104.svg",
+    "path": "hat104.svg",
+    "hash": "170fb604b4591f896a38a607b48f33092f28a614781dcf9421b63e7d25de7b42",
+    "type": "svg",
+    "path_png": "hat104.png"
+  },
+  "hat105": {
+    "url": "https://media.blooket.com/image/upload/v1726105798/BlookParts/hat105.svg",
+    "path": "hat105.svg",
+    "hash": "69ae72aa5489db98466c6f58d660a3e3ddf2c9469e75b1b5c5d5c85e0efdd79e",
+    "type": "svg",
+    "path_png": "hat105.png"
+  },
+  "hat106": {
+    "url": "https://media.blooket.com/image/upload/v1726105800/BlookParts/hat106.svg",
+    "path": "hat106.svg",
+    "hash": "0c16577a5dee3f3fac50eec46dd4a1494ca8289f5755eee0c8fea7fd1ae8b6ab",
+    "type": "svg",
+    "path_png": "hat106.png"
+  },
+  "hat107": {
+    "url": "https://media.blooket.com/image/upload/v1726105800/BlookParts/hat107.svg",
+    "path": "hat107.svg",
+    "hash": "c02e060786af1171f74ac168ffb37692079c8e689b6183047635cc5445cbb009",
+    "type": "svg",
+    "path_png": "hat107.png"
+  },
+  "hat108": {
+    "url": "https://media.blooket.com/image/upload/v1726105801/BlookParts/hat108.svg",
+    "path": "hat108.svg",
+    "hash": "6aa4e79f5406d450fb1079bea41d83c41aac3be58c02d05aed3b51a463e28a2d",
+    "type": "svg",
+    "path_png": "hat108.png"
+  },
+  "hat109": {
+    "url": "https://media.blooket.com/image/upload/v1726105803/BlookParts/hat109.svg",
+    "path": "hat109.svg",
+    "hash": "3647fe7835fca48624d2ba2df15e39c909d9f745b6689c77bdff09062ced040d",
+    "type": "svg",
+    "path_png": "hat109.png"
+  },
+  "hat110": {
+    "url": "https://media.blooket.com/image/upload/v1726105804/BlookParts/hat110.svg",
+    "path": "hat110.svg",
+    "hash": "c85d16176fd4629dc5b2f8291c8802a7d15b9d509cdbf984c4ee97508c68c729",
+    "type": "svg",
+    "path_png": "hat110.png"
+  },
+  "hat111": {
+    "url": "https://media.blooket.com/image/upload/v1726105805/BlookParts/hat111.svg",
+    "path": "hat111.svg",
+    "hash": "fa5bf03a55fadce0f89dcb60e0b347d20900ab1039a72d2fe87f9c2afd1be2e4",
+    "type": "svg",
+    "path_png": "hat111.png"
+  },
+  "hat112": {
+    "url": "https://media.blooket.com/image/upload/v1726105806/BlookParts/hat112.svg",
+    "path": "hat112.svg",
+    "hash": "053d6313956172487072fcae2b797595badb22a1076ccfcc11171d0e23f391e0",
+    "type": "svg",
+    "path_png": "hat112.png"
+  },
+  "hat113": {
+    "url": "https://media.blooket.com/image/upload/v1726105807/BlookParts/hat113.svg",
+    "path": "hat113.svg",
+    "hash": "b445aac1a384792bd2b988db343fabb42d8625de3f72095659b0d36945e9de6d",
+    "type": "svg",
+    "path_png": "hat113.png"
+  },
+  "hat114": {
+    "url": "https://media.blooket.com/image/upload/v1726105806/BlookParts/hat114.svg",
+    "path": "hat114.svg",
+    "hash": "8ff41c85c8260769be71b9c86ab9a029549fe0ca3e52e902d42b68b10a4dc34c",
+    "type": "svg",
+    "path_png": "hat114.png"
+  },
+  "hat115": {
+    "url": "https://media.blooket.com/image/upload/v1726105808/BlookParts/hat115.svg",
+    "path": "hat115.svg",
+    "hash": "25414d2a3c4e311b275dea2f4c5295c6c4f917a25ea7b52aadf370bf7b50c3e0",
+    "type": "svg",
+    "path_png": "hat115.png"
+  },
+  "hat116": {
+    "url": "https://media.blooket.com/image/upload/v1726105809/BlookParts/hat116.svg",
+    "path": "hat116.svg",
+    "hash": "483e987266ec2b71eae4db62a1e4a1ac069024ff84b8e90396d663f87afef684",
+    "type": "svg",
+    "path_png": "hat116.png"
+  },
+  "hat117": {
+    "url": "https://media.blooket.com/image/upload/v1726105809/BlookParts/hat117.svg",
+    "path": "hat117.svg",
+    "hash": "2a1fabec2c244b11e1bea04d91005dc11d611319b55c4a0678a3ac6303cb74d4",
+    "type": "svg",
+    "path_png": "hat117.png"
+  },
+  "hat118": {
+    "url": "https://media.blooket.com/image/upload/v1726105812/BlookParts/hat118.svg",
+    "path": "hat118.svg",
+    "hash": "27f38b1e5ec04f721e71042450330086211373bad14d5baef39c33607645bda4",
+    "type": "svg",
+    "path_png": "hat118.png"
+  },
+  "hat119": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/hat119.svg",
+    "path": "hat119.svg",
+    "hash": "2302603d40c87bde3632a83c840832cabcc7d6a42fae20d8585fb1b529c4874c",
+    "type": "svg",
+    "path_png": "hat119.png"
+  },
   "item1": {
     "url": "https://media.blooket.com/image/upload/v1634087902/BlookParts/item1.svg",
     "path": "item1.svg",
@@ -5852,6 +6419,62 @@
     "type": "svg",
     "path_png": "item57.png"
   },
+  "item58": {
+    "url": "https://media.blooket.com/image/upload/v1726105812/BlookParts/item58.svg",
+    "path": "item58.svg",
+    "hash": "05bc82592d845d3a2b937664483268f01791c11bedbe551816745abe64c8f36b",
+    "type": "svg",
+    "path_png": "item58.png"
+  },
+  "item59": {
+    "url": "https://media.blooket.com/image/upload/v1726105813/BlookParts/item59.svg",
+    "path": "item59.svg",
+    "hash": "cbe929f48d6b96b6fd14b9f5c871e3a465a61f9ab3acd512667991d936f8510f",
+    "type": "svg",
+    "path_png": "item59.png"
+  },
+  "item60": {
+    "url": "https://media.blooket.com/image/upload/v1726105814/BlookParts/item60.svg",
+    "path": "item60.svg",
+    "hash": "133caa8cc0dcf5e5d4789fff09213f6e8f08966e69964d124fed3bda526fb130",
+    "type": "svg",
+    "path_png": "item60.png"
+  },
+  "item61": {
+    "url": "https://media.blooket.com/image/upload/v1726105815/BlookParts/item61.svg",
+    "path": "item61.svg",
+    "hash": "2b6a23d55a72dfdc12752189314ca754ec1f9ac3bc5fd79cb29233f18301b805",
+    "type": "svg",
+    "path_png": "item61.png"
+  },
+  "item62": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/item62.svg",
+    "path": "item62.svg",
+    "hash": "555a99f7249c4c6e2c768ebf49d710f6a77b76f51d0a1130ee42ad58ed0c1768",
+    "type": "svg",
+    "path_png": "item62.png"
+  },
+  "item63": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/item63.svg",
+    "path": "item63.svg",
+    "hash": "c9ca3240a4cd04f5c04572c912c86a2164f84837dec4205643965b4bd1c2906b",
+    "type": "svg",
+    "path_png": "item63.png"
+  },
+  "item64": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/item64.svg",
+    "path": "item64.svg",
+    "hash": "d0a3985e3de67773928cc80ce62724df7ceb54211615f158a44f19fb55696e45",
+    "type": "svg",
+    "path_png": "item64.png"
+  },
+  "item65": {
+    "url": "https://media.blooket.com/image/upload/v1728608104/BlookParts/item65.svg",
+    "path": "item65.svg",
+    "hash": "b320ddb71afb8c42a4dbbd73668131476cdbf24705c82b63e207ca76295bef36",
+    "type": "svg",
+    "path_png": "item65.png"
+  },
   "mouth0": {
     "url": "https://media.blooket.com/image/upload/v1634087948/BlookParts/mouth0.svg",
     "path": "mouth0.svg",
@@ -6013,6 +6636,62 @@
     "type": "svg",
     "path_png": "mouth22.png"
   },
+  "mouth23": {
+    "url": "https://media.blooket.com/image/upload/v1726105816/BlookParts/mouth23.svg",
+    "path": "mouth23.svg",
+    "hash": "7352a40271a44810b677c4babc91c1a8b9349ba401046a0dd61f801f0f4b376a",
+    "type": "svg",
+    "path_png": "mouth23.png"
+  },
+  "mouth24": {
+    "url": "https://media.blooket.com/image/upload/v1726105817/BlookParts/mouth24.svg",
+    "path": "mouth24.svg",
+    "hash": "cad95e233cb275ab641df78db681236172e5bbafab313d14048eff55d56211e6",
+    "type": "svg",
+    "path_png": "mouth24.png"
+  },
+  "mouth25": {
+    "url": "https://media.blooket.com/image/upload/v1726105818/BlookParts/mouth25.svg",
+    "path": "mouth25.svg",
+    "hash": "0cbb426367fdc148161895bf6e699d7ab72f6b540a5c633e6e421dac0c91b64d",
+    "type": "svg",
+    "path_png": "mouth25.png"
+  },
+  "mouth26": {
+    "url": "https://media.blooket.com/image/upload/v1726105819/BlookParts/mouth26.svg",
+    "path": "mouth26.svg",
+    "hash": "540d71fddc08244a1aa61eb052131d3dd57e428938743895e367725454fbeac4",
+    "type": "svg",
+    "path_png": "mouth26.png"
+  },
+  "mouth27": {
+    "url": "https://media.blooket.com/image/upload/v1726105819/BlookParts/mouth27.svg",
+    "path": "mouth27.svg",
+    "hash": "511beb9d26e43c611ae1ecafb63b150cfbe85d68f86f8f6093ff58b53d2fbbb8",
+    "type": "svg",
+    "path_png": "mouth27.png"
+  },
+  "mouth28": {
+    "url": "https://media.blooket.com/image/upload/v1726105819/BlookParts/mouth28.svg",
+    "path": "mouth28.svg",
+    "hash": "f284aa91740ed478c2eb60697586ded4efdb6c004570293c7d96ff3b86206b56",
+    "type": "svg",
+    "path_png": "mouth28.png"
+  },
+  "mouth29": {
+    "url": "https://media.blooket.com/image/upload/v1726105819/BlookParts/mouth29.svg",
+    "path": "mouth29.svg",
+    "hash": "7141fa816fe3ce277aa9d852906113cbcdb4ee0179e6f22c1bf9ff901f30d0a8",
+    "type": "svg",
+    "path_png": "mouth29.png"
+  },
+  "mouth30": {
+    "url": "https://media.blooket.com/image/upload/v1726105820/BlookParts/mouth30.svg",
+    "path": "mouth30.svg",
+    "hash": "6ae9f04e3ca5ee228f7eebb42c1429aca225b437142ae26ceb020e461ced89f4",
+    "type": "svg",
+    "path_png": "mouth30.png"
+  },
   "nose1": {
     "url": "https://media.blooket.com/image/upload/v1634087975/BlookParts/nose1.svg",
     "path": "nose1.svg",
@@ -6068,6 +6747,34 @@
     "hash": "16fd0b6e5607a251a2a9d7961d812edb03beeb94729a4e658d0502043a99fb30",
     "type": "svg",
     "path_png": "nose8.png"
+  },
+  "nose9": {
+    "url": "https://media.blooket.com/image/upload/v1726105820/BlookParts/nose9.svg",
+    "path": "nose9.svg",
+    "hash": "a50b7782b04788f729aebcbf61882609bbc0aaa8973d44f919cc01fe53f05230",
+    "type": "svg",
+    "path_png": "nose9.png"
+  },
+  "nose10": {
+    "url": "https://media.blooket.com/image/upload/v1726105820/BlookParts/nose10.svg",
+    "path": "nose10.svg",
+    "hash": "95c1e4b264a1a0de8917e01136cbf0b868d915e3ee063482d5372cccf3de972e",
+    "type": "svg",
+    "path_png": "nose10.png"
+  },
+  "nose11": {
+    "url": "https://media.blooket.com/image/upload/v1726105821/BlookParts/nose11.svg",
+    "path": "nose11.svg",
+    "hash": "2ec0debe38e500f34f3f0af196d71c4d550faca2a2a7aee86d75b0e1c6185882",
+    "type": "svg",
+    "path_png": "nose11.png"
+  },
+  "nose12": {
+    "url": "https://media.blooket.com/image/upload/v1726105821/BlookParts/nose12.svg",
+    "path": "nose12.svg",
+    "hash": "7a51da3a294ec72dc34d15a723c3e8000205a4cbe3429f519a0ab66cd27d2a06",
+    "type": "svg",
+    "path_png": "nose12.png"
   },
   "cheeks1": {
     "url": "https://media.blooket.com/image/upload/v1634087705/BlookParts/cheeks1.svg",
@@ -6194,6 +6901,13 @@
     "hash": "b4eaf186f02c69303db2696ce8a6d9cb9d39e4c0e96fba4f8689ed14710eeca6",
     "type": "svg",
     "path_png": "eyebrows11.png"
+  },
+  "eyebrows12": {
+    "url": "https://media.blooket.com/image/upload/v1726105773/BlookParts/eyebrows12.svg",
+    "path": "eyebrows12.svg",
+    "hash": "b706b16d88453ec400e8d1e61c46afc9a5f574d64c44e6bae13b1ccddd4d44dc",
+    "type": "svg",
+    "path_png": "eyebrows12.png"
   },
   "bouncyMedal1": {
     "url": "https://ac.blooket.com/play-l/assets/bouncyMedal1-B24yd7w_.svg",
